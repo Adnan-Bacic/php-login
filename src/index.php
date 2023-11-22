@@ -23,7 +23,7 @@
 			<button type="submit">Login</button>
 		</fieldset>
 	</form>
-
+	<a href="info.php">info</a>
 	
 </body>
 </html>

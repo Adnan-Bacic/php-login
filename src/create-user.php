@@ -30,6 +30,6 @@
 	}
 	
 ?>
-	
+	<a href="info.php">info</a>
 </body>
 </html>

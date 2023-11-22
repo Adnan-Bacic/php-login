@@ -30,6 +30,6 @@ session_destroy();
 ?>
 	
 	<h2>You are now logged out</h2>
-	
+	<a href="index.php">home</a>
 </body>
 </html>
